@@ -13,8 +13,8 @@ This package is a middleware/HandlerFunc for [Gin](https://github.com/gin-gonic/
 
 ## Why
 
-Today, people are all about "high availability", but what about the web server wants? Maybe you don't want to risk a catastrophe on Friday 13th.
-Well, if you ever had this problem, now you have a soltion.
+Today, people are all about "high availability", but what if your web server is superstitious? Maybe you don't want to risk a catastrophe on Friday 13th.
+Well, if you ever had this problem, now you have a solution.
 
 No, but really, **this package is a joke**, don't use in any production environment.
 
